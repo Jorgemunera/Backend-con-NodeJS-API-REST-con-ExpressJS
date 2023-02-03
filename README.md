@@ -2,4 +2,4 @@ Aprendo desarrollo backend con Node.js Trabajo con rutas, servidores y middlewar
 
 * Uso Node.js con Express.js para el backend de una aplicación
 * Creo los endpoints de mi API REST
-* Creo mi primer servidor HTTP
+* Creo un servidor HTTP
